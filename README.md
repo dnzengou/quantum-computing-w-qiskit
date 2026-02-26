@@ -11,3 +11,6 @@
 
 ## Bernstein-Vaziran algorithm
 ![QC Identity Gate](img/Bernstein-Vazirani.png)
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q81SLST0)
